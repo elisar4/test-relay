@@ -1,1 +1,4 @@
-test-relay
+# Intstruction:
+- clone
+- chmod
+- run MLAPI.Relay
